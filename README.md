@@ -40,11 +40,11 @@ The research workflow consists of the following stages:
    - Cleaning
    - Text Normalization
 3. Hybrid Data Labeling
-   -  Pseudo-labeling
-   -  Manual Annotation of Low-Confidence Data
-4. Dataset Splitting
-5. Fine-tuning IndoBERT
-6. Model Evaluation
+   - Pseudo-labeling
+   - Manual Annotation of Low-Confidence Data
+5. Dataset Splitting
+6. Fine-tuning IndoBERT
+7. Model Evaluation
 ---
 
 ## 🧠 Model
